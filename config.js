@@ -4,7 +4,7 @@ window.APP_CONFIG = {
   GOOGLE_MAPS_API_KEY: "AIzaSyAYvECoY90cl8YQwhKiBwEBKqW_zrK1AQY",
 
   SHEET: {
-    id: "1cd3VUWQKs3zB68Ji-JXVjJkqyXi87KOoSErjypixD4I",
+    id: "1vYe0uLH_G4jE6XI1MATo8JOFvkYn-sGtIYkBpG2XFVE",
     range: "Sheet1!A:Z"
   },
 
@@ -17,7 +17,7 @@ window.APP_CONFIG = {
 
    // Optional branding & assets base (both default to relative paths)
   LOGO_URL: "logo-light.png",   // put your logo file next to index.html (or set a full/absolute URL)
-  ASSETS_BASE: "https://nickshultz-ih.github.io/utah-map/",              // e.g. "", "./assets/", or "https://cdn.example.com/ih/"
+  ASSETS_BASE: "https://nickshultz-ih.github.io/Intermountain/",              // e.g. "", "./assets/", or "https://cdn.example.com/ih/"
 
      // Icon token mapping (filenames only; will be prefixed by ASSETS_BASE)
   ICON_TOKENS: {
